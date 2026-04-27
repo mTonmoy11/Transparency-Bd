@@ -1,0 +1,6 @@
+[submodule "tb-client"]
+	path = tb-client
+	url = https://github.com/YOUR-USERNAME/tb-client.git
+[submodule "tb-server"]
+	path = tb-server
+	url = https://github.com/YOUR-USERNAME/tb-server.git
